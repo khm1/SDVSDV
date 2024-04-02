@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./PythonAdb/model/vehiclePropValue/VehiclePropValue.py",
+        "./PythonAdb/model/vehiclePropValue"
+    ]
+}
